@@ -8,9 +8,9 @@
 #####     LEARNING GOALS     #####
 ##################################
 
-# Recap object composition
+# Recap object compositi
 
-# Try out a Ruby mixin
+# Try out a Ruby mixin 
 
 # Learn about the module Enumerable
 
@@ -125,6 +125,6 @@
 
         #Select will filter for elements where the condition is true.
           #(1..100).to_a.select {|n| n % 10 == 0 }
-          
+
        #Reject filters for elements where the condition is false.
           #(1..15).to_a.reject { |n| n % 5 == 0 }
