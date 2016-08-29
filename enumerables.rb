@@ -197,6 +197,9 @@ a = ["red", "1", "hide"]
 b = ["white", "2", "and"]
 c = ["blue", "3", "seek"]
 
+a.zip(b,c)
+# => it will zip up the responses for red white and blue.
+
 
 
 
